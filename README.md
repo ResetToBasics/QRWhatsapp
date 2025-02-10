@@ -27,4 +27,38 @@
 
 1. **Clone este repositório**:
    ```sh
-   git clone https://github.com/seu-usuario/whatsapp-connect.git
+   git clone https://github.com/ResetToBasics/QRWhatsapp.git
+   ```
+
+2. **Instale as dependências com Yarn**:
+   ```sh
+   yarn install
+   ```
+
+4. **Inicie o bot**:
+   ```sh
+   yarn start
+   ```
+
+5. **Escaneie o QR Code** gerado no terminal para conectar sua conta do WhatsApp.
+
+---
+
+## 🏗️ Como Personalizar?
+
+🔧 Este projeto é apenas a base! Para adicionar funcionalidades:
+
+- Intercepte mensagens recebidas e adicione lógica personalizada.
+- Integre com APIs externas para automação de tarefas.
+- Expanda a estrutura para atender necessidades específicas do seu projeto.
+
+---
+
+## 📜 Licença
+
+Este projeto está licenciado sob a **MIT License**. Sinta-se à vontade para usá-lo e modificá-lo conforme suas necessidades.
+
+---
+
+💡 Se este projeto foi útil para você, considere deixar uma estrela ⭐ no repositório!
+
